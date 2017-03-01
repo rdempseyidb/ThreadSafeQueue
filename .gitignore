@@ -1,0 +1,9 @@
+.vs
+ConsumerProducer.VC.VC.opendb
+ConsumerProducer.VC.db
+ConsumerProducer/Debug
+ConsumerProducer/x64
+ipch
+x64
+**/*~
+**/*.swp
